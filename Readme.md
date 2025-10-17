@@ -46,7 +46,7 @@ A UC visa aplicar metodologias ágeis e tecnologias modernas para a criação de
 
 #### **Aula 3: Boas práticas**
 
-- 3.1: Boas práticas da subfunção 2.1
+- 3.1: Boas práticas da subfunção 2.5
 - 4.4: Controle de versão da subfunção 2.1
 - Entre no site para gerar gitignore: https://www.toptal.com/developers/gitignore/api/django
 - Entre no github e crie novo repositório: https://github.com/romulodf-cesar/sindcode
